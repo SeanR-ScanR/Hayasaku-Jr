@@ -7,7 +7,7 @@ const details: Array<ImplementableMangaCommandDetails> = [
     name: ['jjl'],
     description: "Affiche une page d'un chapitre de Jojolion",
     options: {
-      research: 'de4b3c43-5243-4399-9fc3-68a3c0747138',
+      research: '7a9d76c3-42b9-4bcf-81d7-ad307d2ea971',
     },
   },
 ];
